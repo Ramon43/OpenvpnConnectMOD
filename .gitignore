@@ -1,0 +1,73 @@
+/build
+/app/build/bin
+/app/build/generated
+/app/build/intermediates
+/app/build/outputs
+/app/build/tmp
+.idea / ** / workspace.xml
+.idea / ** / tasks.xml
+.idea / ** / use.statistics.xml
+.idea / ** / dicionários
+.idea / ** / prateleira
+
+# Arquivos gerados
+.idea / ** / contentModel.xml
+
+# Arquivos sensíveis ou de alta rotatividade
+.idea / ** / dataSources /
+.idea / ** / dataSources.ids
+.idea / ** / dataSources.local.xml
+.idea / ** / sqlDataSources.xml
+.idea / ** / dynamic.xml
+.idea / ** / uiDesigner.xml
+.idea / ** / dbnavigator.xml
+
+# Gradle
+.idea / ** / gradle.xml
+.idea / ** / libraries
+
+# Gradle e Maven com importação automática
+# Ao usar o Gradle ou o Maven com importação automática, você deve excluir os arquivos do módulo,
+# pois eles serão recriados e podem causar rotatividade. Remova o comentário se estiver usando
+# importação automática.
+# .idea / artefatos
+# .idea / compiler.xml
+# .idea / jarRepositories.xml
+# .idea / modules.xml
+# .idea / *. iml
+# .idea / modules
+# * .iml
+# * .ipr
+
+# CMake
+cmake-build- * /
+
+# Mongo Explorer plugin
+.idea / ** / mongoSettings.xml
+
+# Formato de projeto baseado em arquivo
+* .iws
+
+# IntelliJ
+out /
+
+# mpeltonen / plugin sbt-idea
+.idea_modules /
+
+# Plugin do JIRA
+atlassian-ide-plugin.xml
+
+# Plugin Cursive Clojure
+.idea / replstate.xml
+
+# Plug-in do Crashlytics (para Android Studio e IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Cliente de descanso baseado em editor
+.idea / httpRequests
+
+# Arquivo de cache serializado do Android studio 3.1 ou superior
+.idea / caches / build_file_checksums.ser
