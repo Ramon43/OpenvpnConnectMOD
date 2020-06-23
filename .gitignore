@@ -1,9 +1,10 @@
-/build
-/app/build/bin
-/app/build/generated
-/app/build/intermediates
-/app/build/outputs
-/app/build/tmp
+build
+app/build/bin
+app/build/generated
+app/build/intermediates
+app/build/outputs
+app/build/tmp
+.gradle
 .idea / ** / workspace.xml
 .idea / ** / tasks.xml
 .idea / ** / use.statistics.xml
